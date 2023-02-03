@@ -12,12 +12,12 @@
         Made with <a href="https://svelte.dev" target="_blank" rel="noreferrer" 
             >Svelte</a
         >
-        by Script Raccoon
+        by MoinJulian
     </p>
     <ul>
         <li>
             <a
-                href="https://github.com/ScriptRaccoon/"
+                href="https://github.com/MoinJulian/"
                 target="_blank" rel="noreferrer"
                 aria-label="GitHub account"
                 title="GitHub account" 
@@ -28,17 +28,7 @@
         </li>
         <li>
             <a
-                href="https://twitter.com/ScriptRaccoon/"
-                target="_blank" rel="noreferrer"
-                aria-label="Twitter account"
-                title="Twitter account"
-            >
-                <Fa icon={faTwitter} />
-            </a>
-        </li>
-        <li>
-            <a
-                href="mailto:scriptraccoon@gmail.com"
+                href="mailto:support@moinjulian.com"
                 target="_blank"
                 aria-label="Email me"
                 title="Email me"
